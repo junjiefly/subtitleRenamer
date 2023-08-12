@@ -46,7 +46,7 @@ drwxrwxrwx 2 nginx nginx         77 8月  11 20:43 metadata
 -rwxrwxrwx 1 nginx nginx       3046 8月  12 00:26 tvshow.nfo
 
 
-
+================================================================================
 
 
 eg2:
