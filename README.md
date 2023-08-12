@@ -1,4 +1,4 @@
-# subtitleRenamer
+# subtitleRenamer  a tool to rename subtitle files for a movie or a tv series
 eg1:
 	rename for a tv series
 		
