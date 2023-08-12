@@ -11,9 +11,9 @@ eg1:
 
 	drwxrwxrwx 2 nginx nginx 77 8 月 11 20:43 metadata
 
-	-rwxrwxrwx 1 nginx nginx 78049 8 月 12 00:26 **The.Killing.Vote.S01E01.1080p.AMZN.WEB-DLA.CSD.ES.0.H.265.cht.srt**
+	-rwxrwxrwx 1 nginx nginx 78049 8 月 12 00:26 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DLA.CSD.ES.0.H.265.cht.srt
 
-	-rwxrwxrwx 1 nginx nginx 1165027229 8 月 11 18:24 *The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.mkv*
+	-rwxrwxrwx 1 nginx nginx 1165027229 8 月 11 18:24 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.mkv
 
 	-rwxrwxrwx 1 nginx nginx 3830 8 月 12 00:26 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.nfo
 
@@ -36,9 +36,9 @@ find episode:   1, subtitle matched? yes
 
 	drwxrwxrwx 2 nginx nginx         77 8月  11 20:43 metadata
 
-	-rwxrwxrwx 1 nginx nginx      78049 8月  12 00:26 **The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.cht.srt**
+	-rwxrwxrwx 1 nginx nginx      78049 8月  12 00:26 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.cht.srt
 
-	-rwxrwxrwx 1 nginx nginx 1165027229 8月  11 18:24 *The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.mkv*
+	-rwxrwxrwx 1 nginx nginx 1165027229 8月  11 18:24 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.mkv
 
 	-rwxrwxrwx 1 nginx nginx       3830 8月  12 00:26 The.Killing.Vote.S01E01.1080p.AMZN.WEB-DL.DDP2.0.H.265-thon.nfo
 
@@ -59,7 +59,7 @@ eg2:
 
 	-rwxrwxrwx  1 nginx nginx       6275 8月   9 15:03 Iron.Man.2008.1080p.BrRip.x264.YIFY.nfo
 
-	-rwxrwxrwx  1 nginx nginx     270900 7月  31 21:59 **Iron.Man.2008.zh.ass**
+	-rwxrwxrwx  1 nginx nginx     270900 7月  31 21:59 Iron.Man.2008.zh.ass
 
 
 
@@ -80,7 +80,7 @@ find move: Iron.Man.2008.1080p.BrRip.x264.YIFY, subtitle matched? yes
 
 	-rwxrwxrwx  1 nginx nginx       6275 8月   9 15:03 Iron.Man.2008.1080p.BrRip.x264.YIFY.nfo
 
-	-rwxrwxrwx  1 nginx nginx     270900 7月  31 21:59 **Iron.Man.2008.1080p.BrRip.x264.YIFY.zh.ass**
+	-rwxrwxrwx  1 nginx nginx     270900 7月  31 21:59 Iron.Man.2008.1080p.BrRip.x264.YIFY.zh.ass
 
 	-rwxrwxrwx  1 nginx nginx     123419 7月  24 23:48 logo.png
 
